@@ -1,0 +1,8 @@
+{
+  "name": "copywriter",
+  "version": "0.1.0",
+  "description": "A copywriter agent, a prose reviewer and the writing rules they share, with a mechanical linter for the rules a regex can catch.",
+  "author": { "name": "grunion" },
+  "license": "MIT",
+  "keywords": ["copywriting", "writing", "prose", "linter", "style"]
+}

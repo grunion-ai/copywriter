@@ -1,0 +1,14 @@
+{
+  "name": "grunion-copywriter",
+  "description": "The copywriter plugin: a copywriter agent, a prose reviewer and the writing rules they share.",
+  "owner": {
+    "name": "grunion"
+  },
+  "plugins": [
+    {
+      "name": "copywriter",
+      "source": "./",
+      "description": "A copywriter agent, a prose reviewer and the writing rules they share, with a mechanical linter."
+    }
+  ]
+}
